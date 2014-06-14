@@ -1,6 +1,6 @@
 # Shake N Make - Drupal Installation
 
-This Document describes all the necessary steps to install Drupal using callinmullaney_make.
+This Document describes all the necessary steps to install Drupal using shakenmake_make.
 
 
 ### Clone shakenmake Make
