@@ -223,6 +223,33 @@ projects[xmlsitemap][version] = "2.0"
 
 ; Set before each module - projects[][subdir] = "custom"
 
+; Valet
+;
+; Quicksilver/Alfred menu lookup for Drupal.
+; @see https://github.com/JaceRider/Valet/tree/develop
+projects[Valet][subdir] = "custom"
+projects[Valet][type] = "module"
+projects[Valet][download][type] = "git"
+projects[Valet][download][url] = "git@github.com:JaceRider/Valet.git"
+
+; eXo
+;
+; The badASS content editor for Drupal. *requires Asset @see https://github.com/JaceRider/Asset
+; @see https://github.com/JaceRider/eXo
+projects[eXo][subdir] = "custom"
+projects[eXo][type] = "module"
+projects[eXo][download][type] = "git"
+projects[eXo][download][url] = "git@github.com:JaceRider/eXo.git"
+
+; Asset
+;
+; Asset management the right way in Drupal.
+; @see https://github.com/JaceRider/Asset
+projects[Asset][subdir] = "custom"
+projects[Asset][type] = "module"
+projects[Asset][download][type] = "git"
+projects[Asset][download][url] = "git@github.com:JaceRider/Asset.git"
+
 ; Sonar
 ;
 ; Compass compiler for Drupal
@@ -259,6 +286,15 @@ projects[Fett][type] = "theme"
 projects[Fett][subdir] = "custom"
 projects[Fett][download][type] = "git"
 projects[Fett][download][url] = "git@github.com:JaceRider/Fett.git"
+
+; Boushh Theme
+;
+; Boushh is an admin theme of awesomeness that is based on Fett.
+; @see https://github.com/JaceRider/Boushh
+projects[Boushh][type] = "theme"
+projects[Boushh][subdir] = "custom"
+projects[Boushh][download][type] = "git"
+projects[Boushh][download][url] = "git@github.com:JaceRider/Boushh.git"
 
 
 ; =============================================
