@@ -110,6 +110,9 @@ projects[field_group][version] = "1.3"
 ; File entity (fieldable files)
 projects[file_entity][version] = "2.0-alpha3"
 
+; @Font Your Face
+projects[fontyourface][version] = "2.8"
+
 ; Geocoder
 projects[geocoder][version] = "1.2"
 
@@ -121,6 +124,9 @@ projects[geophp][version] = "1.7"
 
 ; Google Analytics
 projects[google_analytics][version] = "1.4"
+
+; Google Webfont Loader
+projects[google_webfont_loader_api][version] = "1.11"
 
 ; IMCE
 projects[imce][version] = "1.8"
