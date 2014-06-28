@@ -170,6 +170,9 @@ projects[pathauto][version] = "1.2"
 ; Publish button
 projects[publish_button][version] = "1.0"
 
+; Quickbar
+projects[quickbar][version] = "2.0-beta1"
+
 ; Quick Tabs
 projects[quicktabs][version] = "3.6"
 
