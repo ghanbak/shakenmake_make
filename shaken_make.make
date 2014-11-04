@@ -54,7 +54,7 @@ projects[context][version] = "3.2"
 projects[ctools][version] = "1.4"
 
 ; CKEditor - WYSIWYG HTML editor
-projects[ckeditor][version] = "1.13"
+projects[ckeditor][version] = "1.16"
 
 ; CKEditor Link
 projects[ckeditor_link][version] = "2.3"
@@ -310,9 +310,9 @@ projects[Boushh][download][url] = "git@github.com:JaceRider/Boushh.git"
 ; Libraries
 ; =============================================
 
-; CKEditor 4.3
+; CKEditor 4.4.5
 libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor 4.3/ckeditor_4.3_standard.zip"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.4.5/ckeditor_4.4.5_standard.zip"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][type] = "library"
 
